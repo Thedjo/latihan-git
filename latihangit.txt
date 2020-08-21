@@ -4,3 +4,6 @@ Daftar Isi :
 1. Latihan GitHub 1
 2. Latihan GitHub 2
 3. Latihan GitHub 3
+4. Latihan GitHub 4
+5. Latihan GitHub 5
+6. Latihan GitHub 6
