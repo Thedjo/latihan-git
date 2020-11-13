@@ -4,3 +4,4 @@ Coba Cabang 1
 3. Latihan GitHub cabang3
 4. Latihan GitHub cabang4
 5. Latihan saja
+6. Tambahan Fetch
